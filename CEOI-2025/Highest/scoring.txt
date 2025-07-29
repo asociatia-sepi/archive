@@ -1,0 +1,1 @@
+[[0, "sample1|sample2"], [5, "sample1|sample2|A_.*"], [7, "sample1|sample2|C_.*"], [11, "sample1|sample2|C_.*|E_.*"], [44, "sample1|sample2|C_.*|E_.*|G_.*"], [8, "I_.*"], [25, ".*"]]
