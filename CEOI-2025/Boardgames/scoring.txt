@@ -1,0 +1,1 @@
+[[0, "samples-.*"], [5, "neighbour_edges-.*"], [7, "short_edges-.*|neighbour_edges-.*"], [6, "small-.*|samples-.*"], [15, "medium-.*|small-.*"], [34, "forest-.*|neighbour_edges-.*"], [17, "sqrt-.*|medium-.*"], [16, "full-.*|medium-.*|forest-.*|short_edges-.*"]]
