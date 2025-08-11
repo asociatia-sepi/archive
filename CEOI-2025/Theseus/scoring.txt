@@ -1,0 +1,6 @@
+[[4, "clique.*"],
+[10, "max.*"],
+[11, "tree.*"],
+[13, "bipartite.*|tree.*"],
+[12, "ladder.*"],
+[50, "general.*|ladder.*|bipartite.*|tree.*|max.*|clique.*"]]
